@@ -1,0 +1,6 @@
+Enter first integer number
+Enter second integer number
+Summation of these two number is: 4
+Who is great?
+Swinburne is great
+Press Enter to exit
